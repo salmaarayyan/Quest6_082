@@ -9,6 +9,8 @@
     <string name="jenis_kelamin">JENIS KELAMIN</string>
     <string name="gender">JENIS KELAMIN</string>
     <string name="alamat">ALAMAT</string>
+    <string name="tampil">Tampilan Data</string>
+
 
 
 </resources>
