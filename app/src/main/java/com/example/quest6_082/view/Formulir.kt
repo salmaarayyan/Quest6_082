@@ -1,3 +1,4 @@
+@file:OptIn(ExperimentalMaterial3Api::class)
 package com.example.quest6_082.view
 
 import androidx.compose.foundation.layout.Arrangement
@@ -11,6 +12,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.material3.Button
 import androidx.compose.material3.DividerDefaults.Thickness
+import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.RadioButton
@@ -45,7 +47,6 @@ fun FormIsian(
         txtGender,
         txtAlamat
     )
-
     Scaffold (modifier = Modifier,
         {
             TopAppBar(

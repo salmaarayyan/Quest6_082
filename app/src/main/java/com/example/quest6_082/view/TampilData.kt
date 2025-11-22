@@ -24,6 +24,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.quest6_082.R
+import com.example.quest6_082.model.Siswa
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
