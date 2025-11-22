@@ -6,5 +6,8 @@
     <string name="back">Back</string>
     <string name="nama_lengkap">NAMA LENGKAP</string>
     <string name="nama">NAMA LENGKAP</string>
+    <string name="jenis_kelamin">JENIS KELAMIN</string>
+    <string name="gender">JENIS KELAMIN</string>
+
 
 </resources>
