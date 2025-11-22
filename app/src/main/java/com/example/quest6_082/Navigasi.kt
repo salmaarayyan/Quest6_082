@@ -46,3 +46,10 @@ fun SiswaApp(
         }
     }
 }
+
+private fun cancelAndBackToFormulirku(
+    navController: NavController
+){
+    navController.popBackStack(Navigasi.Formulirku.name,
+        inclusive = false)
+}
